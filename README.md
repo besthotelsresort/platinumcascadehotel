@@ -1,0 +1,2 @@
+# platinumcascadehotel
+Static site: platinumcascadehotel
